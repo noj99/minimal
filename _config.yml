@@ -1,15 +1,8 @@
 title: <p align="center"> Nikhil Oommen Jacob </p>
 logo: /assets/img/passportphoto.jpg
-description: 
-<p align="center">
-  |
-  <a href="https://github.com/noj99">GitHub</a>
-  
-  <br>   
-  I'm working on Data Science.
+description: I'm working on Data Science.
  
-  <br>
-  </p>
+  
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
